@@ -1,4 +1,4 @@
-package exception;
+package by.psu.exception;
 
 public class TourServiceValidationException extends Exception {
 
@@ -6,4 +6,3 @@ public class TourServiceValidationException extends Exception {
         super(message);
     }
 }
-

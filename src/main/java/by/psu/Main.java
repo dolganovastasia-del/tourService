@@ -1,5 +1,7 @@
-import exception.TourServiceValidationException;
-import model.Client;
+package by.psu;
+
+import by.psu.exception.TourServiceValidationException;
+import by.psu.model.Client;
 
 public class Main {
     public static void main(String[] args) {

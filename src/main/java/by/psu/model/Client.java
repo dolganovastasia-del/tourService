@@ -1,4 +1,4 @@
-package model;
+package by.psu.model;
 
 import exception.TourServiceValidationException;
 
